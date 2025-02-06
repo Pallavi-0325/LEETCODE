@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Pallavi-0325/LEETCODE/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
+| [2630-alternating-digit-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/2630-alternating-digit-sum) |
 ## Simulation
 |  |
 | ------- |

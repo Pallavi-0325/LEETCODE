@@ -49,6 +49,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Pallavi-0325/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0908-middle-of-the-linked-list) |

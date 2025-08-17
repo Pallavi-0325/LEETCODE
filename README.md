@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Pallavi-0325/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pallavi-0325/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pallavi-0325/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

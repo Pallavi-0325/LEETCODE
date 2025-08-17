@@ -71,6 +71,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pallavi-0325/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pallavi-0325/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -78,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |

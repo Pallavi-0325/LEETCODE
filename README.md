@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pallavi-0325/LEETCODE/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
@@ -46,6 +47,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Pallavi-0325/LEETCODE/tree/master/0203-remove-linked-list-elements) |
@@ -66,6 +68,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Pallavi-0325/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Stack

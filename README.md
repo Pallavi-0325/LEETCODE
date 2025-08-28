@@ -51,6 +51,7 @@
 | [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Pallavi-0325/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pallavi-0325/LEETCODE/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
@@ -118,10 +120,12 @@
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Pallavi-0325/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Pallavi-0325/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -130,5 +134,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Pallavi-0325/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->

@@ -124,6 +124,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Pallavi-0325/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pallavi-0325/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Pallavi-0325/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pallavi-0325/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -143,9 +144,11 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Pallavi-0325/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pallavi-0325/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Pallavi-0325/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pallavi-0325/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Pallavi-0325/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pallavi-0325/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

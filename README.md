@@ -159,4 +159,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pallavi-0325/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Pallavi-0325/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pallavi-0325/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Pallavi-0325/LEETCODE/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

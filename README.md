@@ -32,6 +32,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
+| [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Pallavi-0325/LEETCODE/tree/master/1916-find-center-of-star-graph) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

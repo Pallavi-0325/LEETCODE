@@ -38,6 +38,7 @@
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Pallavi-0325/LEETCODE/tree/master/2737-row-with-maximum-ones) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->

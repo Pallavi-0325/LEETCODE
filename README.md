@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
+| [2737-row-with-maximum-ones](https://github.com/Pallavi-0325/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,4 +174,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/Pallavi-0325/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->

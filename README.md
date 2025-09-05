@@ -92,6 +92,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Pallavi-0325/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Pallavi-0325/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pallavi-0325/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## String
@@ -113,6 +115,7 @@
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |

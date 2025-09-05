@@ -30,6 +30,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Pallavi-0325/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
@@ -40,6 +41,7 @@
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |

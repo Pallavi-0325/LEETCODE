@@ -82,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -116,6 +117,7 @@
 | [0344-reverse-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
+| [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |

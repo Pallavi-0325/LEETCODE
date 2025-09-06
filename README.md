@@ -9,6 +9,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pallavi-0325/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |

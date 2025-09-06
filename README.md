@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0338-counting-bits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |

@@ -113,6 +113,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Pallavi-0325/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pallavi-0325/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -125,6 +126,7 @@
 | [0344-reverse-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -138,6 +140,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

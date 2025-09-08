@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Pallavi-0325/LEETCODE/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -100,6 +102,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Pallavi-0325/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
 ## Stack
 |  |

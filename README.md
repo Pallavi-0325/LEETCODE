@@ -131,6 +131,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-0325/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-0325/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Monotonic Stack
 |  |
 | ------- |

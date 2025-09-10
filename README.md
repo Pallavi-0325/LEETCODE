@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Pallavi-0325/LEETCODE/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Pallavi-0325/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |

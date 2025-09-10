@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pallavi-0325/LEETCODE/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |

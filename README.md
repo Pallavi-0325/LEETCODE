@@ -38,6 +38,7 @@
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pallavi-0325/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/Pallavi-0325/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
@@ -96,6 +97,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pallavi-0325/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
@@ -138,6 +140,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-0325/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -123,6 +123,7 @@
 | [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## String
 |  |
@@ -137,6 +138,7 @@
 | [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-0325/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

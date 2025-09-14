@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
 ## Number Theory
 |  |
@@ -37,6 +38,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
@@ -67,6 +69,7 @@
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -221,6 +225,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0048-rotate-image) |
+| [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Pallavi-0325/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Sliding Window

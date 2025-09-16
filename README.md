@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
@@ -220,6 +223,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Pallavi-0325/LEETCODE/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
@@ -237,4 +241,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Pallavi-0325/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Pallavi-0325/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Pallavi-0325/LEETCODE/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0507-perfect-number) |
@@ -266,4 +267,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pallavi-0325/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Pallavi-0325/LEETCODE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

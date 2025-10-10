@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pallavi-0325/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0258-add-digits) |
@@ -41,6 +42,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
@@ -105,6 +107,7 @@
 | [0061-rotate-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |

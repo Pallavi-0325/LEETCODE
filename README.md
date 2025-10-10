@@ -21,6 +21,7 @@
 | [0367-valid-perfect-square](https://github.com/Pallavi-0325/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Pallavi-0325/LEETCODE/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Pallavi-0325/LEETCODE/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -82,6 +83,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Pallavi-0325/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Pallavi-0325/LEETCODE/tree/master/0400-nth-digit) |
+| [0633-sum-of-square-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pallavi-0325/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |

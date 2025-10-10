@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pallavi-0325/LEETCODE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Pallavi-0325/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pallavi-0325/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
@@ -43,6 +44,7 @@
 | [0035-search-insert-position](https://github.com/Pallavi-0325/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pallavi-0325/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Pallavi-0325/LEETCODE/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |

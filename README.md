@@ -17,6 +17,7 @@
 | [0263-ugly-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pallavi-0325/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Pallavi-0325/LEETCODE/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |

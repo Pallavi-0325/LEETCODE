@@ -50,6 +50,7 @@
 | [0053-maximum-subarray](https://github.com/Pallavi-0325/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pallavi-0325/LEETCODE/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Pallavi-0325/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0338-counting-bits) |

@@ -176,6 +176,7 @@
 | [0394-decode-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
+| [0520-detect-capital](https://github.com/Pallavi-0325/LEETCODE/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pallavi-0325/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |

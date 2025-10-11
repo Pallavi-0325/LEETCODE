@@ -23,6 +23,7 @@
 | [0507-perfect-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Pallavi-0325/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Pallavi-0325/LEETCODE/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2630-alternating-digit-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/2630-alternating-digit-sum) |
@@ -174,6 +175,7 @@
 | [0481-magical-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Pallavi-0325/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-0325/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

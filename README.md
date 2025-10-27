@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Pallavi-0325/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Pallavi-0325/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pallavi-0325/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pallavi-0325/LEETCODE/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-0325/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Pallavi-0325/LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-0325/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pallavi-0325/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pallavi-0325/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -169,6 +172,7 @@
 | [0006-zigzag-conversion](https://github.com/Pallavi-0325/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Pallavi-0325/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Pallavi-0325/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Pallavi-0325/LEETCODE/tree/master/0224-basic-calculator) |

@@ -58,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
+| [1185-find-in-mountain-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/1185-find-in-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -86,6 +87,7 @@
 | [0367-valid-perfect-square](https://github.com/Pallavi-0325/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Pallavi-0325/LEETCODE/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1185-find-in-mountain-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/1185-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Pallavi-0325/LEETCODE/tree/master/0319-bulb-switcher) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->

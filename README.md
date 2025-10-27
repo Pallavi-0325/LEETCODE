@@ -24,6 +24,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Pallavi-0325/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Pallavi-0325/LEETCODE/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pallavi-0325/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1284-four-divisors](https://github.com/Pallavi-0325/LEETCODE/tree/master/1284-four-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Pallavi-0325/LEETCODE/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2630-alternating-digit-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/2630-alternating-digit-sum) |
@@ -60,6 +61,7 @@
 | [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1185-find-in-mountain-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/1185-find-in-mountain-array) |
+| [1284-four-divisors](https://github.com/Pallavi-0325/LEETCODE/tree/master/1284-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Pallavi-0325/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |

@@ -188,6 +188,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pallavi-0325/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Pallavi-0325/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pallavi-0325/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/Pallavi-0325/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-0325/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -294,4 +295,16 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/1185-find-in-mountain-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Pallavi-0325/LEETCODE/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Pallavi-0325/LEETCODE/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Pallavi-0325/LEETCODE/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->

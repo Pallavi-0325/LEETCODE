@@ -59,6 +59,7 @@
 | [0268-missing-number](https://github.com/Pallavi-0325/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pallavi-0325/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Pallavi-0325/LEETCODE/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Pallavi-0325/LEETCODE/tree/master/0890-lemonade-change) |
 | [0983-validate-stack-sequences](https://github.com/Pallavi-0325/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1185-find-in-mountain-array](https://github.com/Pallavi-0325/LEETCODE/tree/master/1185-find-in-mountain-array) |
 | [1284-four-divisors](https://github.com/Pallavi-0325/LEETCODE/tree/master/1284-four-divisors) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pallavi-0325/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Pallavi-0325/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0890-lemonade-change](https://github.com/Pallavi-0325/LEETCODE/tree/master/0890-lemonade-change) |
 | [1252-break-a-palindrome](https://github.com/Pallavi-0325/LEETCODE/tree/master/1252-break-a-palindrome) |
 ## Design
 |  |
